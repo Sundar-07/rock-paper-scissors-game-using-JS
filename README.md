@@ -24,4 +24,3 @@ The possible outcomes are:
 3. Compare the two choices and determine a winner.
 4. Start the program and display the results.
 
-> [Project here](https://github.com/Sundar-07/rock-paper-scissors-game-using-JS/game.js)
